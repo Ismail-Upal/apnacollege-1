@@ -1,2 +1,3 @@
 # apnacollege-1
-This is my first Git repos
+This is my first Git repository.
+Author -- Ismail Upal.
